@@ -3,7 +3,7 @@ title: "Survivre à l'administration"
 order: 0
 in_menu: true
 ---
-**Survivre à l'administration** est un mouvement pour se serrer les coudes face à un État toujours plus procédurier, toujours plus de dossiers, de "numérasse" (la paperasse du numérique)\
+**Survivre à l'administration** est un mouvement pour se serrer les coudes face à un État toujours plus procédurier, toujours plus de dossiers, de "numérasse" (la paperasse du numérique)
 
 Chaque personne se retrouve seul.e devant son ordi face à des sites web ou des applications sensées nous simplifier la vie, mais qui la compliquent parfois.\
 On se retrouve face à un langage administratif que l'on ne comprend pas toujours.\
