@@ -14,7 +14,7 @@ le vendredi 17 mai 2024 de 16h à 20h
 
 On organise une permanence
 
-Tu viens avec ton ordi (et si tu n'en a pas ou c'est galère, on en a un à disposition sur place), ton numéro de référence fiscal (et si tu ne le connais pas, aucun problème, on trouvera ensemble), ton mot de passe
+Tu viens avec ton ordi (et si tu n'en a pas ou c'est galère, on en a un à disposition sur place) ou les derniers courriers que tu as reçu des impôts
 
 On peut faire ensemble sur le même ordi. Ou alors, tu fais tout.e seul.e et on est à côté pour répondre aux questions ou quand c'est fini
 
