@@ -12,3 +12,5 @@ Et la peur de mal faire, et la peur des conséquences si on fait mal, ou si on r
 Et si on se réunissait et on faisait ensemble ?
 
 Pour se sentir moins seul.e, pour pouvoir poser nos questions sans jugement, sans honte, pour se motiver, pour avoir moins peur, pour célébrer ensemble quand c'est fini 
+
+[Les prochaines dates](./prochaines dates.html) 
